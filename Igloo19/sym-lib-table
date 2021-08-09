@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LSHM120_conn)(type Legacy)(uri C:/Users/dsr1/KiCad_PBC/Igloo19/igloo17.pretty/LSHM-120-01-X-RH-A-S-K-XX.lib)(options "")(descr ""))
+  (lib (name wirebond1x10)(type Legacy)(uri C:/Users/dsr1/KiCad_PBC/Igloo19/igloo17.pretty/wirebonds.lib)(options "")(descr ""))
+)
